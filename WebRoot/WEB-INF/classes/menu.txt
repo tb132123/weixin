@@ -1,0 +1,1 @@
+{"button":[{"name":"我的鱼缸","type":"click","key":"鱼缸"},{"name":"网上商城","type":"view","url":"http://wap.gouwu.sogou.com/search#shop/p=40251500&query=%D1%F8%D3%E3%D3%C3%C6%B7"},{"name":"养鱼交流","type":"view","url":"http://www.baidu.com"}]}
